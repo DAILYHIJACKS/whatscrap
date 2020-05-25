@@ -9,5 +9,11 @@ A python tool which gets you whatsapp group invitations by exploiting Google dor
 You can always use proxies. Works well with prawlers
 Feel free to pull issues if you encounter any error or join our TeleGram.
 
+# Gallery
+
+![Banner](https://drive.google.com/open?id=1kK3yukn5d2YNM2UD7Ugkl7LJeLGpgF82)
+
+![OutPutScraps](https://drive.google.com/open?id=1mjmWBy_6qL5GmBB92h_ntz2_sxNBijZe)
+
 # Credits 👨‍💻
   Qirit0 
