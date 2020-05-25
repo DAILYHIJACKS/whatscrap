@@ -11,9 +11,8 @@ Feel free to pull issues if you encounter any error or join our TeleGram.
 
 # Gallery
 
-![Banner](https://ibb.co/hWXycff)
-
-![OutPutScraps](https://drive.google.com/open?id=1mjmWBy_6qL5GmBB92h_ntz2_sxNBijZe)
+![](gallery/Picture1.jpg)
+![](gallery/Picture2.jpg)
 
 # Credits 👨‍💻
   Qirit0 
