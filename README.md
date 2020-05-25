@@ -11,8 +11,11 @@ Feel free to pull issues if you encounter any error or join our TeleGram.
 
 # Gallery
 
-![](gallery/Picture1.jpg)
-![](gallery/Picture2.jpg)
+Choose thread number between 1 to 6 
+![](gallery/picture1.jpg)
+
+Generated Scraps
+![](gallery/picture2.jpg)
 
 # Credits 👨‍💻
   Qirit0 
